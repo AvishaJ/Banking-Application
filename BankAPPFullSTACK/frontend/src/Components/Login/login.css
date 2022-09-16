@@ -1,0 +1,19 @@
+.logindiv {
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loginformdiv {
+  width: 50vw;
+  height: 50vh;
+  background-color: #cce9ee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 10px rgb(227, 238, 160);
+  
+}
